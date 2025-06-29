@@ -13,4 +13,5 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub followers](https://img.shields.io/github/followers/prathmesh284)](https://img.shields.io/github/followers/prathmesh284?style=plastic)
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF)]
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1)
