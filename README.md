@@ -77,8 +77,8 @@
 ## 📫 Let’s Connect
 
 📧 **Email:** [jadhavprathmesh284@gmail.com](mailto:jadhavprathmesh284@gmail.com)  
-🌐 **LinkedIn:** [linkedin.com/in/prathmesh284](https://linkedin.com/in/prathmesh284) *(optional)*  
-💻 **Portfolio:** *(Add if you have one)*
+🌐 **LinkedIn:** [https://linkedin.com/in/](https://www.linkedin.com/in/prathmesh-jadhav-6a71b4257)  
+💻 **Portfolio:** [https://pratham-portfolio-123.netlify.app/](https://pratham-portfolio-123.netlify.app/)
 
 ---
 
