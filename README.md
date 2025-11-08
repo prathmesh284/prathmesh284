@@ -69,8 +69,7 @@
 
 ## 📈 GitHub Stats
 
-![Prathmesh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathmesh284&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh284&layout=compact&theme=radical)
+![Prathmesh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathmesh284&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh284&layout=compact&theme=radical)
 
 ---
 
