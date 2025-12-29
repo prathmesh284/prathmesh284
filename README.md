@@ -68,8 +68,10 @@
 ---
 
 ## 📈 GitHub Stats
-
-<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=prathmesh284&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=prathmesh284&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh284&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=prathmesh284&theme=dark&hide_border=true"
     alt="GitHub Stats"
@@ -84,8 +86,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh284&layout=compact&theme=dark&hide_border=true"
     alt="Top Languages"
   />
-</div>
-
+</div> -->
 
 ## 📫 Let’s Connect
 
