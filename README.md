@@ -483,19 +483,11 @@ That's probably why I enjoy backend, cloud infrastructure, DevOps, and system ar
 # 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prathmesh284&theme=dark&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=prathmesh284&theme=dark&hide_border=false" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prathmesh284&layout=compact&theme=dark&hide_border=true" />
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=prathmesh284&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?    username=prathmesh284&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=prathmesh284&theme=tokyonight&hide_border=true" />
 </div>
-
 ---
 
 # 🤝 Let's Connect
@@ -525,10 +517,9 @@ Whether it's a Java API, a Kubernetes Pod, an AWS VPC, a Terraform module, or an
 
 ---
 
-<div align="center">
-
 ### 🚀 Keep Building. Keep Learning.
 
-![Profile Views](https://visitcount.itsvg.in/api?id=prathmesh284\&icon=0\&color=0)
 
-</div>
+<p align="center">
+  👀 Profile Visitors <img src="https://komarev.com/ghpvc/?username=prathmesh284&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
