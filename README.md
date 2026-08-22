@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prathmesh Jadhav
 
-### Software Engineer Intern | Java Backend | AWS | DevOps | Cloud Engineering
+### Software Engineer | Java Backend | AWS | DevOps | Cloud Engineering
 
 I'm a Software Engineer Intern focused on building **backend systems, cloud infrastructure, and scalable software applications**.
 
@@ -14,9 +14,9 @@ Currently, I'm working with **Java backend development and DevOps**, while conti
 
 ## 🚀 About Me
 
-🎓 **B.Tech in Mechanical Engineering** from MIT World Peace University, Pune
+🎓 **B.Tech in Computer Science & Engineering**
 💻 Transitioned from engineering/R&D into software engineering
-⚙️ Currently working as a **Software Engineer Intern**
+⚙️ Currently working as a **Software Engineer**
 ☁️ Building experience across **AWS, DevOps, Backend Engineering & Cloud Infrastructure**
 🌱 Exploring **Kubernetes, Terraform, Microservices, AI Agents, RAG & LLM applications**
 🎯 Long-term goal: grow into a **Senior DevOps / SRE / Cloud Engineer**
@@ -434,10 +434,9 @@ That background gave me a strong appreciation for engineering processes, trouble
 
 # 📚 Education
 
-**B.Tech in Mechanical Engineering**
-MIT World Peace University, Pune
-2018 – 2022
-CGPA: **8.26**
+**B.Tech in Computer Science & Engineering**
+KBP COLLEGE OF ENGINEERING, SATARA
+2022 - 2026
 
 ---
 
