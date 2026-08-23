@@ -488,5 +488,6 @@ Whether it's a Java API, a Kubernetes Pod, an AWS VPC, a Terraform module, or an
 
 
 <p align="center">
-  👀 Profile Visitors <img src="https://komarev.com/ghpvc/?username=prathmesh284&label=Profile%20Views&color=0e75b6&style=flat" />
+  👀 Profile Visitors </br>
+  <img src="https://komarev.com/ghpvc/?username=prathmesh284&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
