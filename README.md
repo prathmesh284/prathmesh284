@@ -409,29 +409,6 @@ Because honestly, production teaches some lessons that tutorials politely hide. 
 
 ---
 
-# 🎓 Background
-
-Before entering software engineering, I worked in mechanical engineering and R&D.
-
-I have experience with:
-
-* Quality Engineering
-* R&D
-* Genset testing
-* Agricultural equipment
-* Noise testing
-* Emission testing
-* Product modifications
-* Technical standards
-
-I have worked with standards and testing processes including:
-
-**ISO 8528, ISO 15550, CPCB, ARAI**
-
-That background gave me a strong appreciation for engineering processes, troubleshooting, testing, and root-cause analysis.
-
----
-
 # 📚 Education
 
 **B.Tech in Computer Science & Engineering**
@@ -477,17 +454,6 @@ That's probably why I enjoy backend, cloud infrastructure, DevOps, and system ar
 ⚙️ Microservices & Distributed Systems
 💰 Cloud Cost Optimization
 🔐 Cloud Security & Networking
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=prathmesh284&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?    username=prathmesh284&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=prathmesh284&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
